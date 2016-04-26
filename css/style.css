@@ -13,8 +13,9 @@ body {
 .container {
 	margin: 0 auto;
 	width: 1170px;
-	h1 background: #87cefa;
 }
+
+h1 {background: #87cefa}
 
 .clear {
 	clear: both;
