@@ -8,6 +8,7 @@
 <html>
 body {
 	margin: 0;
+	font-family: ;
 }
 
 .container {
@@ -15,7 +16,7 @@ body {
 	width: 1170px;
 }
 h1 {
-	background-color: #87cefa}
+	background-color: #87cefa
 }
 
 .clear {
@@ -29,7 +30,8 @@ h1 {
 
 	/*corrects IE min-height bug*/
 html { display: flex;}
-body { width: 100%;}
+body { width: 100%;
+	margin-left: }
 
 .sfooter {
 	display: flex;
