@@ -21,6 +21,8 @@ body {
 
 header {background: deepskyblue color: white}
 
+.container {background: deepskyblue}
+
 	/***
 	* Flexbox Sticky Footer
 	* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
