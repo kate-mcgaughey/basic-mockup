@@ -13,10 +13,7 @@ body {
 
 .container {
 	margin: 0 auto;
-	width: 1170px;
 }
-
-h1 {background: #87cefa color: white}
 
 .clear {
 	clear: both;
@@ -41,6 +38,7 @@ body { width: 100%;
 
 .sfooter-content {
 	flex: 1 0 auto;
+	h1 {background: #87cefa color: white}
 }
 
 /********************************************
