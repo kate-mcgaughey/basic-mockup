@@ -37,7 +37,7 @@ body { width: 100%;
 
 .sfooter-content {
 	flex: 1 0 auto;
-	h1 {background: #87cefa color: white}
+	h1 {background-color: #87cefa color: white}
 }
 
 /********************************************
