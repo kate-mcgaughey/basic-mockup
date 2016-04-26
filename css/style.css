@@ -19,7 +19,7 @@ body {
 	clear: both;
 }
 
-h1 {color: deepskyblue}
+h1 {background: deepskyblue color: white}
 	/***
 	* Flexbox Sticky Footer
 	* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
