@@ -13,13 +13,12 @@ body {
 .container {
 	margin: 0 auto;
 	width: 1170px;
+	background: #87cefa;
 }
 
 .clear {
 	clear: both;
 }
-
-header {background: 87CEFA}
 
 	/***
 	* Flexbox Sticky Footer
