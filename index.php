@@ -17,7 +17,7 @@
 					<div class="instructions">
 						<h2>Instructions</h2>
 						<ol>
-							<li> Fork and clone the following GitHub repository, and create a new project in PhpStorm: <a
+							<li>Fork and clone the following GitHub repository, and create a new project in PhpStorm: <a
 								href="https://github.com/rlewis2892/basic-mockup" target="_blank">https://github.com/rlewis2892/basic-mockup</a></li>
 							<li>Using basic CSS, style this page like the mockup image here: <a href="mockup.php" target="_blank">Mockup Image</a></li>
 							<li>Have fun! We will be going over each student's project in class. :D</li>
