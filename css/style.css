@@ -17,11 +17,12 @@ body {
 .clear {
 	clear: both;
 }
+h1 {background-color: #87cefa color: white}
 
-	/***
-	* Flexbox Sticky Footer
-	* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
-	***/
+/***
+* Flexbox Sticky Footer
+* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+***/
 
 	/*corrects IE min-height bug*/
 html { display: flex;}
@@ -37,7 +38,6 @@ body { width: 100%;
 
 .sfooter-content {
 	flex: 1 0 auto;
-	h1 {background-color: #87cefa color: white}
 }
 
 /********************************************
