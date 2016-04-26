@@ -5,9 +5,16 @@
 * Edit and add CSS rules as you see fit! :D
 ********************************************/
 
-html,
+<html>
 body {
 	margin: 0;
+}
+
+img {
+	display: block;
+	height: auto;
+	margin: 200em;
+	max-width: 100%;
 }
 
 .container {
@@ -19,12 +26,13 @@ body {
 	clear: both;
 }
 
-/***
-* Flexbox Sticky Footer
-* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
-***/
+h1 {color: deepskyblue}
+	/***
+	* Flexbox Sticky Footer
+	* http://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/
+	***/
 
-/*corrects IE min-height bug*/
+	/*corrects IE min-height bug*/
 html { display: flex;}
 body { width: 100%;}
 
