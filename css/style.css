@@ -14,8 +14,9 @@ body {
 	margin: 0 auto;
 	width: 1170px;
 }
-header {
-h1 {background: #87cefa}
+h1 {
+	background-color: #87cefa}
+}
 
 .clear {
 	clear: both;
